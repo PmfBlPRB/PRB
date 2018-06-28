@@ -214,6 +214,13 @@
 
             1. Fišerova F raspodela
 
+### R primeri 
 
-### Literatura
+1. [Osnovni tipovi, vektori i matrice](/primeri-R/prb001.R){:target="_blank"}
+
+1. [Kvalititavni podaci](/primeri-R/prb002.R){:target="_blank"}
+
+1. [Kvantitativni podaci](/primeri-R/prb003.R){:target="_blank"}
+
+
 
