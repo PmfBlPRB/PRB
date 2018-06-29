@@ -1,7 +1,7 @@
 # Primena računara u biologiji
 
 
-## [Predavanja](/predavanja/){:target="_blank"}
+## [Predavanja](/predavanja/README.md){:target="_blank"}
 
 
 ## R primeri 
