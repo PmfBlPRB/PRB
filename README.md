@@ -218,9 +218,9 @@
 
 1. [Osnovni tipovi, vektori i matrice](/predavanja-primeri-R/prb001.R)
 
-1. [Kvalititavni podaci](/predavanja-primeri-R/prb002.R)
+1. [Kvalititavni podaci](/predavanja-R/prb002.R)
 
-1. [Kvantitativni podaci](/predavanja-primeri-R/prb003.R)
+1. [Kvantitativni podaci](/predavanja-R/prb003.R)
 
 ### Literatura
 
