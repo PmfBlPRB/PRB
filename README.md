@@ -216,11 +216,16 @@
 
 ### R primeri 
 
-1. [Osnovni tipovi, vektori i matrice](/primeri-R/prb001.R){:target="_blank"}
+1. [Osnovni tipovi, vektori i matrice](/predavanja-primeri-R/prb001.R)
 
-1. [Kvalititavni podaci](/primeri-R/prb002.R){:target="_blank"}
+1. [Kvalititavni podaci](/predavanja-primeri-R/prb002.R)
 
-1. [Kvantitativni podaci](/primeri-R/prb003.R){:target="_blank"}
+1. [Kvantitativni podaci](/predavanja-primeri-R/prb003.R)
 
+### Literatura
+
+1. [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
+
+1. [Uvod u R](/literatura/Uvod u R.pdf){:target="_blank"}
 
 
