@@ -1,6 +1,8 @@
+[povratak](../README.md)
+
 # Predavanja iz Primene računara u biologiji
 
-1. Računarstvo
+1. **Računarstvo**
 
     1. [Razvoj računarstva](/prb01-1-Razvoj racunarstva.pdf){:target="_blank"}
 
@@ -53,7 +55,7 @@
 
                 1. Pokretanje računarskog sistema
 
-1. [Elementarna statistika i R](/predavanja/prb02-1-Elementarna statistika i R.pdf){:target="_blank"}
+1. **[Elementarna statistika i R]**(/predavanja/prb02-1-Elementarna statistika i R.pdf){:target="_blank"}
 
     1. Predmet i ciljevi statistike
 
@@ -123,7 +125,7 @@
 
         1. Isecanje po vrstama
 
-1. [Deskriptivna statistika, kvalitativni i kvantitativni podaci](/predavanja/prb02-2-Kvalitativni i kvantitativni podaci.pdf){:target="_blank"}
+1. **[Deskriptivna statistika, kvalitativni i kvantitativni podaci]**(/predavanja/prb02-2-Kvalitativni i kvantitativni podaci.pdf){:target="_blank"}
 
     1. Deskriptivna statistika
 
@@ -157,7 +159,7 @@
 
         1. XY dijagram (Dijagram disperzije)
 
-1. [Numeričke mere i raspodele verovatnoca](/predavanja/prb02-3-Numericke mere i raspodele verovatnoca.pdf){:target="_blank"}
+1. **[Numeričke mere i raspodele verovatnoca]**(/predavanja/prb02-3-Numericke mere i raspodele verovatnoca.pdf){:target="_blank"}
 
     1. Numeričke mere
 
@@ -211,6 +213,6 @@
 
             1. Fišerova F raspodela
 
-
+[povratak](../README.md)
 
 
