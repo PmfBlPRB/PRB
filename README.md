@@ -226,6 +226,6 @@
 
 1. [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
 
-1. [Uvod u R](/literatura/Uvod u R.pdf){:target="_blank"}
+1. [Uvod u R](/predavanja-literatura/Uvod u R.pdf){:target="_blank"}
 
 
