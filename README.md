@@ -216,7 +216,7 @@
 
 ### R primeri 
 
-1. [Osnovni tipovi, vektori i matrice](/predavanja-primeri-R/prb001.R)
+1. [Osnovni tipovi, vektori i matrice](/predavanja-R/prb001.R)
 
 1. [Kvalititavni podaci](/predavanja-R/prb002.R)
 
