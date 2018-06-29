@@ -55,7 +55,7 @@
 
                 1. Pokretanje računarskog sistema
 
-1. [Elementarna statistika i R](/prb02-1-Elementarna statistika i R.pdf){:target="_blank"}
+1. [_**Elementarna statistika i R**_](/prb02-1-Elementarna statistika i R.pdf){:target="_blank"}
 
     1. Predmet i ciljevi statistike
 
@@ -125,7 +125,7 @@
 
         1. Isecanje po vrstama
 
-1. [**Deskriptivna statistika, kvalitativni i kvantitativni podaci**](/prb02-2-Kvalitativni i kvantitativni podaci.pdf){:target="_blank"}
+1. [_**Deskriptivna statistika, kvalitativni i kvantitativni podaci**_](/prb02-2-Kvalitativni i kvantitativni podaci.pdf){:target="_blank"}
 
     1. Deskriptivna statistika
 
@@ -159,7 +159,7 @@
 
         1. XY dijagram (Dijagram disperzije)
 
-1. [**Numeričke mere i raspodele verovatnoća**](/prb02-3-Numericke mere i raspodele verovatnoca.pdf){:target="_blank"}
+1. [_**Numeričke mere i raspodele verovatnoća**_](/prb02-3-Numericke mere i raspodele verovatnoca.pdf){:target="_blank"}
 
     1. Numeričke mere
 
