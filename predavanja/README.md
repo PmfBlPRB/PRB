@@ -1,10 +1,10 @@
 # Predavanja iz Primene računara u biologiji
 
-[povratak](../README.md)
+[početna strana](../README.md)
 
 1. **Računarstvo**
 
-    1. [Razvoj računarstva](/predavanja/prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}
+    1. [Razvoj računarstva](./prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}
 
         1. Periodi u razvoju računarstva
 
@@ -212,4 +212,4 @@
 
             1. Fišerova F raspodela
 
-[povratak](../README.md)
+[početna strana](../README.md)
