@@ -26,4 +26,4 @@
 
 - [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
 
-- [Uvod u R](/predavanja/literatura/Uvod u R.pdf){:target="_blank"}
+- [Uvod u R](/predavanja/literatura/uvod-u-R.pdf){:target="_blank"}
