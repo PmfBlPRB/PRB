@@ -28,7 +28,7 @@
 
                 1. Četvrta generacija elektronskih računara  
 
-    1. [Računarski sistem](/predavanja/prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}
+    1. [Računarski sistem](./prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}
 
         1. Analogna i digitalna računska sredstva
 
@@ -54,7 +54,7 @@
 
                 1. Pokretanje računarskog sistema
 
-1. **[Elementarna statistika i R](/predavanja/prezentacije/prb02-1-elementarna-statistika-i-R.pdf){:target="_blank"}**
+1. **[Elementarna statistika i R](./prezentacije/prb02-1-elementarna-statistika-i-R.pdf){:target="_blank"}**
 
     1. Predmet i ciljevi statistike
 
@@ -124,7 +124,7 @@
 
         1. Isecanje po vrstama
 
-1. **[Deskriptivna statistika, kvalitativni i kvantitativni podaci](/predavanja/prezentacije/prb02-2-kvalitativni-i-kvantitativni-podaci.pdf){:target="_blank"}**
+1. **[Deskriptivna statistika, kvalitativni i kvantitativni podaci](./prezentacije/prb02-2-kvalitativni-i-kvantitativni-podaci.pdf){:target="_blank"}**
 
     1. Deskriptivna statistika
 
@@ -158,7 +158,7 @@
 
         1. XY dijagram (Dijagram disperzije)
 
-1. **[Numeričke mere i raspodele verovatnoća](/predavanja/prezentacije/prb02-3-numericke-mere-i-raspodele-verovatnoca.pdf){:target="_blank"}**
+1. **[Numeričke mere i raspodele verovatnoća](./prezentacije/prb02-3-numericke-mere-i-raspodele-verovatnoca.pdf){:target="_blank"}**
 
     1. Numeričke mere
 
