@@ -1,18 +1,16 @@
 # Primena računara u biologiji
 
-
 ## [Predavanja](/predavanja/README.md)
 
+## R primeri  
 
-## R primeri 
+1. [Osnovni tipovi, vektori i matrice](/predavanja/primeri-r/prb001.R)
 
-1. [Osnovni tipovi, vektori i matrice](/predavanja-R/prb001.R)
+1. [Kvalititavni podaci](/predavanja/primeri-r/prb002.R)
 
-1. [Kvalititavni podaci](/predavanja-R/prb002.R)
+1. [Kvantitativni podaci](/predavanja/primeri-r/prb003.R)
 
-1. [Kvantitativni podaci](/predavanja-R/prb003.R)
-
-## Veze za dovlačenje softvera koji se koristi na kursu 
+## Veze za dovlačenje softvera koji se koristi na kursu  
 
 - [R](https://cran.r-project.org/mirrors.html){:target="_blank"}
 
@@ -24,11 +22,8 @@
 
 - [Chem4Word](https://github.com/Chem4Word/Version3/releases/){:target="_blank"}
 
-
 ## Literatura
 
-* [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
+- [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
 
-* [Uvod u R](/predavanja-literatura/Uvod u R.pdf){:target="_blank"}
-
-
+- [Uvod u R](/predavanja/literatura/Uvod u R.pdf){:target="_blank"}
