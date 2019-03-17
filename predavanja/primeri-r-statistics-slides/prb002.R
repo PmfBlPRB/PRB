@@ -36,6 +36,7 @@ library(MASS)
 crtanje <- painters$Drawing
 crtanje.frekvencije <- table(crtanje)
 crtanje.frekvencije
+class(crtanje.frekvencije)
 
 # Poboljsan prikaz raspodele frekvencija za kolonu Drawing 
 # okvira sa podacima painters
@@ -52,6 +53,7 @@ cbind(crtanje.frekvencije)
 library(MASS)
 skola <- painters$School
 skola.frekvencije <- table(skola)
+skola.frekvencije
 skola.relativne.frekvencije <- skola.frekvencije / nrow(painters)
 skola.relativne.frekvencije
 
@@ -60,6 +62,7 @@ skola.relativne.frekvencije
 library(MASS)
 skola <- painters$School
 skola.frekvencije <- table(skola)
+skola.frekvencije
 skola.relativne.frekvencije <- skola.frekvencije / sum(skola.frekvencije)
 skola.relativne.frekvencije
 
@@ -69,7 +72,7 @@ library(MASS)
 skola <- painters$School
 skola.frekvencije <- table(skola)
 skola.relativne.frekvencije <- skola.frekvencije / sum(skola.frekvencije)
-staro <- options(digits=1)
+staro <- options(digits=2)
 skola.relativne.frekvencije
 options(staro)
 
@@ -329,7 +332,7 @@ options(staro)
 # Oformiti dijagram koji prikazuje raspodelu kumulativnih 
 # relativnih frekfencija za trajanje erupcije
 trajanje <- faithful$eruptions
-granice <- seq(1.5, 5.5, by=0.5)
+granice <- seq(1.5, 5.5, by=0.3)
 trajanje.rez = cut(trajanje, granice, right=FALSE)
 trajanje.frekvencija = table(trajanje.rez)
 trajanje.kumulativna.frekvencija <- cumsum(trajanje.frekvencija)

@@ -13,6 +13,7 @@ head(faithful)
 # Odrediti sredinu za trajanje erupcija
 trajanje <- faithful$eruptions
 trajanje
+trajanje <- c(trajanje, 0.4,0.16)
 trajanje.sredina <- mean(trajanje)
 trajanje.sredina
 

@@ -212,4 +212,25 @@
 
             1. Fišerova F raspodela
 
+1. **[Procena intervala i testiranje hipoteza](./prezentacije/prb02-4-procena-intervala-i-testiranje-hipoteza.pdf){:target="_blank"}**
+
+    1. Procena itervala
+
+        1. Tačkasta procena sredine populacije
+
+        1. Intervalska procena sredine populacije, kada je poznata disperzija
+
+        1. Intervalska procena sredine populacije, kada je neoznata disperzija
+
+        1. Određivanje veličine uzorka da bi se postigla tačnost procene sredine
+
+        1. Tačkasta procena veličine udela u populaciji
+
+        1. Intervalska procena veličine udela u populaciji
+
+        1. Određivanje veličine uzorka da bi se postigla tačnost procene udela
+
+    1. Testiranje hipoteza
+
+
 [početna strana](../README.md)

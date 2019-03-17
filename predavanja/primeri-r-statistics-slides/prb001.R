@@ -102,7 +102,7 @@ z
 
 # Alternativni nacin za izracunavanje kvardratnog korena 
 # kompleksnog broja -1
-z <- sqrt(as.complex(-1))
+z <- sqrt(as.complex(-4))
 z
 
 ########################################################
@@ -111,7 +111,7 @@ z
 # Poredjenjem brojeva dobija se logicka vrednost
 x <- 1
 y <- 2
-z <- x < y
+z <- x > y
 z
 class(z)
 
@@ -132,7 +132,7 @@ x
 class(x)
 
 # Slepljivanje niski
-ime <- "Mitar" prezime <- "Miric"
+ime <- "Mitar"; prezime <- "Miric"
 x <- paste(ime, prezime)
 x
 y <- paste(prezime, ime, "Umetnik", sep = "+")
@@ -156,7 +156,7 @@ sub("little", "big", poruka)
 # Sekvenca
 ########################################################
 # Kreiranje sekvence celih brojeva
-v <- 3:50
+v <- 3:99
 v
 class(v)
 
@@ -262,7 +262,7 @@ t
 # Pristup elementima vektora preko vektora logickih indeksa
 v <- c("Mary", "has", "a", "little", "lamb")
 v
-l <- c(TRUE, FALSE, FALSE, TRUE, TRUE)
+l <- c(FALSE, TRUE, FALSE, TRUE, FALSE)
 l
 t <- v[l]
 t
@@ -277,6 +277,12 @@ names(v) <- c("Ime", "Prezime", "Godina rodjenja")
 v
 v["Prezime"]
 v[c("Prezime", "Ime")]
+
+v["Godina rodjenja"] <- 1959
+v
+
+v[c("Prezime","Godina rodjenja")] <- c ("Petrovic", 1959)
+v
 
 ########################################################
 # Matrice 
@@ -298,12 +304,13 @@ a[2,] # elementi u drugoj vrsti
 class(a[2,])
 a[,3] # elementi u trecoj koloni
 class(a[,3])
-a[,c(1,3)] # elementi u prvoj i trecoj koloni
+a[ ,c(1,3)] # elementi u prvoj i trecoj koloni
 class(a[,c(1,3)])
 
 # Imenovanje vrsta i kolona u matrici
 a <- matrix(c(2, 4, 3, 1, 5, 7), 
              nrow = 2, ncol = 3, byrow = TRUE) 
+a
 dimnames(a) <- list(
   c("Prva vrsta", "Druga vrsta"),
   c("Prva kolona", "Druga kolona", "Treca kolona"))
@@ -316,6 +323,7 @@ dimnames(a) <- list(
   c("Prva vrsta", "Druga vrsta"),
   c("Prva kolona", "Druga kolona", "Treca kolona"))
 a["Prva vrsta", "Druga kolona"]
+a["Prva vrsta", ]
 
 ########################################################
 # Kreiranje i prikaz matrice
@@ -345,7 +353,7 @@ b <- matrix(c(2, 4, 3, 1, 5, 7), nrow = 3, ncol = 2)
 b
 c <- matrix(c(6, 2), nrow = 1, ncol = 2)
 c
-d <- rbind(b, c)
+d <- rbind(c, b)
 d
 
 # Kreiranje vektora od matrice
@@ -405,11 +413,13 @@ v
 # Isecanje liste pomocu imenovanih elemenata
 v <- list(nagrade=c(2, 3, 5), ime=c("Mitar", "Miric"))
 v["nagrade"]
+class(v["nagrade"])
 v[c("ime","nagrade")]
 
 # Pristup elementima liste pomocu imenovanih elemenata
 v <- list(nagrade=c(2, 3, 5), ime=c("Mitar", "Miric"))
 v[["nagrade"]] # Prvi nacin
+class(v[["nagrade"]])
 v$nagrade # Drugi nacin
 
 # Pridruzivanje liste R putanji za pretragu
@@ -451,12 +461,16 @@ help(mtcars)
 # Prikaz zaglavlja okvira sa podacima mtcars
 head(mtcars)
 
+# Prikaz zaglavlja okvira sa podacima mtcars
+head(mtcars, n=3)
+
 ########################################################
 # Vektor-kolona u okviru sa podacima 
 ########################################################
 # Izdvajanje vektora-kolone iz okvira sa podacima na 
 # osnovu indeksa
 mtcars[[4]]
+class(mtcars[[4]])
 
 # Izdajanje vektora-kolone iz okvira na osnovu imena kolone
 mtcars[["hp"]] # prvi nacin
@@ -469,6 +483,7 @@ mtcars[,"hp"] # treci nacin
 ########################################################
 # Isecanje okvira sa datom kolonom, na osnovu indeksa kolone
 mtcars[4]
+class(mtcars[4])
 
 # Isecanje okvira sa datom kolonom, na osnovu imena kolone
 mtcars["hp"]
@@ -497,6 +512,13 @@ condition
 x <- mtcars[condition,]
 x
 class(x)
+
+x <- mtcars[mtcars$hp >= 150, ]
+x
+y <- mtcars[mtcars$am == 1, ]
+y
+class(y)
+
 
 # Izdvajanje potrosnje (mpg) indeksiranjem pomocu logickog vektora
 condition <- mtcars$hp >= 250

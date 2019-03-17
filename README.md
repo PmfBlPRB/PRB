@@ -1,29 +1,29 @@
-# Primena računara u biologiji
+# Primjena računara u biologiji
 
-## [Predavanja](/predavanja/README.md)
+Ova veb prezentacija sadrži materijale za kurs **Primjena računara u biologiji** na osnovnim studijama Prirdno-matematičkog fakulteta Univerziteta Banja Luka.
 
-## R primeri  
+[comment]: # (* **[Važno! Termin nadoknade predavanja](/predavanja/info/README.md)**)
 
-1. [Osnovni tipovi, vektori i matrice](/predavanja/primeri-r/prb001.R)
+[comment]: # (* **[Važno! Informacije o vežbama](/vezbe/info/README.md)**)
 
-1. [Kvalititavni podaci](/predavanja/primeri-r/prb002.R)
+[comment]: # (* **[Važno! Termin prvog teorijskog testa](/usmeni-ispiti/info/README.md)**)
 
-1. [Kvantitativni podaci](/predavanja/primeri-r/prb003.R)
+## Informacije o kursu
 
-## Veze za dovlačenje softvera koji se koristi na kursu  
+* **[Osnovne informacije](/informacije/README.md)**
 
-- [R](https://cran.r-project.org/mirrors.html){:target="_blank"}
+* **[Instalacije](/INSTALACIJE.md)**
 
-- [R Studio](https://www.rstudio.com/products/rstudio/download/#download){:target="_blank"}
+* **[Resursi za učenje](/RESURSI-ZA-UCENJE.md)**
 
-- [Gephi](https://gephi.org/users/download/){:target="_blank"}
+## Nastava
 
-- [BioClipse](http://bioclipse.net/download/){:target="_blank"}
+* **[Predavanja](/predavanja/README.md)**
 
-- [Chem4Word](https://github.com/Chem4Word/Version3/releases/){:target="_blank"}
+* **[Vežbe](/vezbe/README.md)**
 
-## Literatura
+## Ispiti
 
-- [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
+* **[Pismeni ispiti](/pismeni-ispiti/README.md)**
 
-- [Uvod u R](/predavanja/literatura/uvod-u-R.pdf){:target="_blank"}
+* **[Usmeni ispiti](/usmeni-ispiti/README.md)**
