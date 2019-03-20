@@ -8,7 +8,7 @@
 
 1. **Рачунарство**
 
-    1. [Развој рачунарства](./prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}
+    1. **[Развој рачунарства](./prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}**
 
         1. Периоди у развоју рачунарства
 
@@ -32,7 +32,7 @@
 
                 1. Четврта генерација електронских рачунара  
 
-    1. [Рачунарски систем](./prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}
+    1. **[Рачунарски систем](./prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}**
 
         1. Аналогна и дигитална рачунска средства
 

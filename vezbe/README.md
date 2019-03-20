@@ -4,10 +4,10 @@
 
 Овде су постављена информације о **вјежбама** из предмета **Примјена рачунара у биологији**.  
 
+**[Примјери и задаци](https://drive.google.com/open?id=1IOP8srRaBGykqKtjABWKUPGsAFFD8Fkf)**
+
 ---
 
 **[Информације](info/README.md)**
-
-**[Литература](https://drive.google.com/open?id=1IOP8srRaBGykqKtjABWKUPGsAFFD8Fkf)**
 
 [ПРБ](../README.md)
