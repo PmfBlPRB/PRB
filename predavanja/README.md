@@ -92,7 +92,7 @@
 
         1. Знаковни тип
 
-        - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/001-tipovi-podataka.r){:target="_blank"}
+        - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/000-prvi.r){:target="_blank"}
 
     1. Вектори
 
@@ -106,7 +106,7 @@
 
         1. Именовање компоненти вектора
 
-        - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/002-vektori.r){:target="_blank"}
+        - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/002-vektori.r){:target="_blank"}
 
     1. Листе
 
@@ -114,7 +114,7 @@
 
         1. Именовање компоненти листе
 
-        - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/003-liste.r){:target="_blank"}
+        - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/003-liste.r){:target="_blank"}
 
     1. Матрице
 
@@ -124,7 +124,7 @@
 
         1. Операције са матрицама
 
-        - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/004-matrice.r){:target="_blank"}
+        - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/004-matrice.r){:target="_blank"}
 
     1. Оквири са подацима
 
@@ -136,7 +136,7 @@
 
         1. Исецање по врстама
 
-        - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/005-okviri-sa-podacima.r){:target="_blank"}
+        - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/005-okviri-sa-podacima.r){:target="_blank"}
 
 1. **[Дескриптивна статистика, квалитативни и квантитативни подаци](./prezentacije/prb02-2-kvalitativni-i-kvantitativni-podaci.pdf){:target="_blank"}**
 
@@ -154,9 +154,9 @@
 
         1. Статистике за категорију
 
-       - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/006-kvalitativni-podaci.r){:target="_blank"}
+       - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/006-kvalitativni-podaci.r){:target="_blank"}
 
-       - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/006a-kvalitativni-podaci.R){:target="_blank"}
+       - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/006a-kvalitativni-podaci.R){:target="_blank"}
 
     1. Квантитативни подаци
 
@@ -176,7 +176,7 @@
 
         1. XY дијаграм (Дијаграм дисперзије)
 
-       - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/007-kvatitativni-podaci.r){:target="_blank"}
+       - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/007-kvatitativni-podaci.r){:target="_blank"}
 
 1. **[Нумеричке мере и расподеле вероватноћа](./prezentacije/prb02-3-numericke-mere-i-raspodele-verovatnoca.pdf){:target="_blank"}**
 
@@ -206,7 +206,7 @@
 
         1. Искошеност и спљоштеност
 
-       - [Примери](https://github.com/PmfBlPRB/PRB/blob/master/predavanja/primeri-r/008-numericke-mere.r){:target="_blank"}
+       - [Примери](https://raw.githubusercontent.com/PmfBlPRB/PRB/master/predavanja/primeri-r/008-numericke-mere.r){:target="_blank"}
 
     1. Расподела вероватноћа
 
