@@ -8,7 +8,7 @@
 
 - [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
 
-- Ajzenhamer N. [Uvod u R](http://nikolaajzenhamer.rs/pdf/R.pdf){:target="_blank"}
+- Ајзенхамер Н. [Uvod u R](http://nikolaajzenhamer.rs/pdf/R.pdf){:target="_blank"} ([кеширано](/predavanja/literatura/uvod-u-R.pdf){:target="_blank"})
 
 ## Књиге и упутства за Chemistry AddIn for Word  
 
