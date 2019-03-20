@@ -1,33 +1,33 @@
-# Informacije o kursu -- Primjena računara u biologiji
+# Информације о курсу -- Примјена рачунара у биологији
 
-[PRB](../README.md)
+[ПРБ](../README.md)
 
-## Nastavnici i asistenti  
+## Наставници и асистенти  
 
-* Nastavnik: **[prof. dr Vladimir Filipović](https://vladofilipovic.github.io/index-en.html){:target="_blank"}**
+* Наставник: **[проф. др Владимир Филиповић](https://vladofilipovic.github.io/index-en.html){:target="_blank"}**
 
-* Asistent: **[Milan Predojević](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}**
+* Асистент: **[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}**
 
-## Plan i program kursa
+## План и програм курса
 
-* **[Zvaničan plan i program kursa](Nastavni plan PRB 2019.pdf){:target="_blank"}**
+* **[Званичан план и програм курса](Nastavni plan PRB 2019.pdf){:target="_blank"}**
 
-* **[Plan realizacije nastave u 2018/19 godini](Plan izvodjenja nastave PRB 2019.pdf){:target="_blank"}**
+* **[План реализације наставе у 2018/19 години](Plan izvodjenja nastave PRB 2019.pdf){:target="_blank"}**
 
-## Statusne informacije  
+## Статусне информације  
 
-* [Predavanja](../predavanja/info)
+* [Предавања](../predavanja/info)
 
-* [Vežbe](../vezbe/info)
+* [Вјежбе](../vezbe/info)
 
-* [Pismeni ispiti](../pismeni-ispiti/info)
+* [Писмени испити](../pismeni-ispiti/info)
 
-* [Usmeni ispiti](../usmeni-ispiti/info)
+* [Усмени испити](../usmeni-ispiti/info)
 
-## Autori veb strana kursa
+## Аутори веб страна курса
 
-*[prof. dr Vladimir Filipović](https://vladofilipovic.github.io/index-en.html){:target="_blank"}*
+*[проф. др Владимир Филиповић](https://vladofilipovic.github.io/index-en.html){:target="_blank"}*
 
-*[Milan Predojević](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}*
+*[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}*
 
-[PRB](../README.md)
+[ПРБ](../README.md)
