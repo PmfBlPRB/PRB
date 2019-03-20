@@ -1,10 +1,10 @@
-# Instalacije -- Primjena računara u biologiji
+# Инсталације -- Примјена рачунара у биологији
 
-[PRB](/README.md)
+[ПРБ](/README.md)
 
-Оvde su postavljene veze za dovlačenje softvera koji treba instlairati radi uspešnog rada na kursu **Primjena računara u biologiji**.
+Овдје су постављене везе за довлачење софтвера који треба инстлаирати ради успешног рада на курсу **Примјена рачунара у биологији**.
 
-## Veze za dovlačenje softvera koji se koristi na kursu  
+## Везе за довлачење софтвера који се користи на курсу  
 
 - [R](https://cran.r-project.org/mirrors.html){:target="_blank"}
 
@@ -16,4 +16,4 @@
 
 - [Chem4Word](https://github.com/Chem4Word/Version3/releases/){:target="_blank"}
 
-[PRB](/README.md)
+[ПРБ](/README.md)

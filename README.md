@@ -1,29 +1,27 @@
-# Primjena računara u biologiji
+# Примјена рачунара у биологији @ Природно-математички факултет
 
-Ova veb prezentacija sadrži materijale za kurs **Primjena računara u biologiji** na osnovnim studijama Prirdno-matematičkog fakulteta Univerziteta Banja Luka.
+Ова веб презентација садржи материјале за курс **Примјена рачунара у биологији** на основним студијама Прирдно-математичког факултета Универзитета Бања Лука.
 
-[comment]: # (* **[Važno! Termin nadoknade predavanja](/predavanja/info/README.md)**)
+[comment]: # (* **[Важно! Термин надокнаде предавања](/predavanja/info/README.md)**)
 
-[comment]: # (* **[Važno! Informacije o vežbama](/vezbe/info/README.md)**)
+[comment]: # (* **[Важно! Информације о вјежбама](/vezbe/info/README.md)**)
 
-[comment]: # (* **[Važno! Termin prvog teorijskog testa](/usmeni-ispiti/info/README.md)**)
+## Информације о курсу
 
-## Informacije o kursu
+* **[Основне информације](/informacije/README.md)**
 
-* **[Osnovne informacije](/informacije/README.md)**
+* **[Инсталације](/INSTALACIJE.md)**
 
-* **[Instalacije](/INSTALACIJE.md)**
+* **[Ресурси за учење](/RESURSI-ZA-UCENJE.md)**
 
-* **[Resursi za učenje](/RESURSI-ZA-UCENJE.md)**
+## Настава
 
-## Nastava
+* **[Предавања](/predavanja/README.md)**
 
-* **[Predavanja](/predavanja/README.md)**
+* **[Вјежбе](/vezbe/README.md)**
 
-* **[Vežbe](/vezbe/README.md)**
+## Испити
 
-## Ispiti
+* **[Писмени испити](/pismeni-ispiti/README.md)**
 
-* **[Pismeni ispiti](/pismeni-ispiti/README.md)**
-
-* **[Usmeni ispiti](/usmeni-ispiti/README.md)**
+* **[Усмени испити](/usmeni-ispiti/README.md)**

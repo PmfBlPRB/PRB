@@ -1,18 +1,17 @@
-# Resursi za učenje -- Primjena računara u biologiji  
+# Ресурси за учење -- Примјена рачунара у биологији  
 
-[PRB](/README.md)
+[ПРБ](/README.md)
 
-Ovde su postavljene veze prema resursima za učenje na vebu, koji mogu pomoći pri učenju sadržaja koji se obrađuju na kursu **Primjena računara u biologiji**.
+Овде су постављене везе према ресурсима за учење на вебу, који могу помоћи при учењу садржаја који се обрађују на курсу **Примјена рачунара у биологији**.
 
-## Knjige i uputstva za R  
+## Књиге и упутства за R
 
 - [R Tutorial](http://www.r-tutor.com/){:target="_blank"}
 
 - Ajzenhamer N. [Uvod u R](http://nikolaajzenhamer.rs/pdf/R.pdf){:target="_blank"}
 
-## Knjige i uputstva za Chemistry AddIn for Word  
+## Књиге и упутства за Chemistry AddIn for Word  
 
 - [User guide](/predavanja/literatura/chemistry-add-in-for-word-user-guide.pdf){:target="_blank"}
 
-
-[PRB](/README.md)
+[ПРБ](/README.md)

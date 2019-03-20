@@ -1,236 +1,239 @@
-# Predavanja iz Primene računara u biologiji
+# Предавања -- Примјена рачунара у биологији
 
-[početna strana](../README.md)
+[ПРБ](../README.md)
 
-1. **Računarstvo**
+1. **Рачунарство**
 
-    1. [Razvoj računarstva](./prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}
+    1. [Развој рачунарства](./prezentacije/prb01-1-razvoj-racunarstva.pdf){:target="_blank"}
 
-        1. Periodi u razvoju računarstva
+        1. Периоди у развоју рачунарства
 
-            1. Period pre pojave elektronskih računara
+            1. Период пре појаве електронских рачунара
 
-                1. Period abakusa
+                1. Период абакуса
 
-                1. Period mehaničkih računskih mašina
+                1. Период механичких рачунских машина
 
-                1. Period elektromehaničkih računskih mašina
+                1. Период електромеханичких рачунских машина
 
-                1. Računari zasnovan na relejima
+                1. Рачунари заснован на релејима
 
-            1. Period elektronskih računara
+            1. Период електронских рачунара
 
-                1. Prva generacija elektronskih računara  
+                1. Прва генерација електронских рачунара  
 
-                1. Druga generacija elektronskih računara  
+                1. Друга генерација електронских рачунара  
 
-                1. Treća generacija elektronskih računara  
+                1. Трећа генерација електронских рачунара  
 
-                1. Četvrta generacija elektronskih računara  
+                1. Четврта генерација електронских рачунара  
 
-    1. [Računarski sistem](./prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}
+    1. [Рачунарски систем](./prezentacije/prb01-2-racunarski-sistem.pdf){:target="_blank"}
 
-        1. Analogna i digitalna računska sredstva
+        1. Аналогна и дигитална рачунска средства
 
-        1. Struktura računarskog sistema
+        1. Структура рачунарског система
 
-            1. Hardver
+            1. Хардвер
 
-                1. Arhitektura računara
+                1. Архитектура рачунара
 
-                1. Fon Nojmanov koncept računara
+                1. Фон Нојманов концепт рачунара
 
-                1. Delovi računara
+                1. Делови рачунара
 
-            1. Softver
+            1. Софтвер
 
-                1. Operativni sistemi
+                1. Оперативни системи
 
-                1. Korisničko okruženje
+                1. Корисничко окружење
 
-                1. Razvojni sistem
+                1. Развојни систем
 
-                1. Aplikativni softver
+                1. Апликативни софтвер
 
-                1. Pokretanje računarskog sistema
+                1. Покретање рачунарског система
 
-1. **[Elementarna statistika i R](./prezentacije/prb02-1-elementarna-statistika-i-R.pdf){:target="_blank"}**
+1. **[Елементарна статистика и R](./prezentacije/prb02-1-elementarna-statistika-i-R.pdf){:target="_blank"}**
 
-    1. Predmet i ciljevi statistike
+    1. Предмет и циљеви статистике
 
-    1. Primena statistike u nauci
+    1. Примена статистике у науци
 
-    1. Uvod u R
+    1. Увод у R
 
-        1. Instalacija
+        1. Инсталација
 
-        1. R sesija
+        1. R сесија
 
-        1. Dodela vrednosti promenljive
+        1. Додела вредности променљиве
 
-        1. Funkcije
+        1. Функције
 
-        1. Komentari
+        1. Коментари
 
-        1. Paketi sa proširenjima
+        1. Пакети са проширењима
 
-        1. Sistem pomoći
+        1. Систем помоћи
 
-    1. Osnovni tipovi podataka u R-u
+    1. Основни типови података у R-у
 
-        1. Numerički tip
+        1. Нумерички тип
 
-        1. Cjelobrojni tip
+        1. Цјелобројни тип
 
-        1. Kompleksni tip
+        1. Комплексни тип
 
-        1. Logički tip
+        1. Логички тип
 
-        1. Znakovni tip
+        1. Знаковни тип
 
-    1. Vektori
+    1. Вектори
 
-        1. Kreiranje vektora
+        1. Креирање вектора
 
-        1. Kombinovanje vektora
+        1. Комбиновање вектора
 
-        1. Aritmetika sa vektorima
+        1. Аритметика са векторима
 
-        1. Indeksi kod vektora
+        1. Индекси код вектора
 
-        1. Imenovanje komponenti vektora
+        1. Именовање компоненти вектора
 
-    1. Matrice
+    1. Матрице
 
-        1. Kreiranje matrice
+        1. Креирање матрице
 
-        1. Imenovanje vrsta i kolona matrica
+        1. Именовање врста и колона матрица
 
-        1. Operacije sa matricama
+        1. Операције са матрицама
 
-    1. Liste
+    1. Листе
 
-        1. Kreiranje liste
+        1. Креирање листе
 
-        1. Imenovanje komponenti liste
+        1. Именовање компоненти листе
 
-    1. Okviri sa podacima
+    1. Оквири са подацима
 
-        1. Kreiranje okvira sa podacima
+        1. Креирање оквира са подацима
 
-        1. Kolone okvira sa podacima
+        1. Колоне оквира са подацима
 
-        1. Isecanje po kolonama
+        1. Исецање по колонама
 
-        1. Isecanje po vrstama
+        1. Исецање по врстама
 
-1. **[Deskriptivna statistika, kvalitativni i kvantitativni podaci](./prezentacije/prb02-2-kvalitativni-i-kvantitativni-podaci.pdf){:target="_blank"}**
+1. **[Дескриптивна статистика, квалитативни и квантитативни подаци](./prezentacije/prb02-2-kvalitativni-i-kvantitativni-podaci.pdf){:target="_blank"}**
 
-    1. Deskriptivna statistika
+    1. Дескриптивна статистика
 
-    1. Kvalitativni podaci
+    1. Квалитативни подаци
 
-        1. Raspodjela frekfencija kod kvalitativnih podataka
+        1. Расподјела фрекфенција код квалитативних података
 
-        1. Relativna raspodela frekfencija kod kvalitativnih podataka
+        1. Релативна расподела фрекфенција код квалитативних података
 
-        1. Stubičasti dijagram
+        1. Стубичасти дијаграм
 
-        1. Kružni dijagram (pita)
+        1. Кружни дијаграм (пита)
 
-        1. Statistike za kategoriju
+        1. Статистике за категорију
 
-    1. Kvantitativni podaci
+    1. Квантитативни подаци
 
-        1. Raspodela frekfencija kod kvantitativnih podataka
+        1. Расподела фрекфенција код квантитативних података
 
-        1. Histogram
+        1. Хистограм
 
-        1. Relativna raspodela frekfencija kod kvantitativnih podataka
+        1. Релативна расподела фрекфенција код квантитативних података
 
-        1. Raspodela kumulativnih frekfencija
+        1. Расподела кумулативних фрекфенција
 
-        1. Dijagram kumulativnih frekfencija
+        1. Дијаграм кумулативних фрекфенција
 
-        1. Raspodela kumulativnih relativnih frekfencija
+        1. Расподела кумулативних релативних фрекфенција
 
-        1. Dijagram kumulativnih relativnih frekfencija
+        1. Дијаграм кумулативних релативних фрекфенција
 
-        1. XY dijagram (Dijagram disperzije)
+        1. XY дијаграм (Дијаграм дисперзије)
 
-1. **[Numeričke mere i raspodele verovatnoća](./prezentacije/prb02-3-numericke-mere-i-raspodele-verovatnoca.pdf){:target="_blank"}**
+1. **[Нумеричке мере и расподеле вероватноћа](./prezentacije/prb02-3-numericke-mere-i-raspodele-verovatnoca.pdf){:target="_blank"}**
 
-    1. Numeričke mere
+    1. Нумеричке мере
 
-        1. Sredina
+        1. Средина
 
-        1. Medijana
+        1. Медијана
 
-        1. Mod
+        1. Мод
 
-        1. Kvartil i percentil
+        1. Квартил и перцентил
 
-        1. Opseg i opseg među kvartilima
+        1. Опсег и опсег међу квартилима
 
-        1. Kutija dijagram (Box plot)
+        1. Кутија дијаграм
 
-        1. Disperzija
+        1. Дисперзија
 
-        1. Standardna devijacija
+        1. Стандардна девијација
 
-        1. Kovarijansa
+        1. Коваријанса
 
-        1. Koeficijent korelacije
+        1. Коефицијент корелације
 
-        1. Centralni moment
+        1. Централни момент
 
-        1. Iskošenost i spljoštenost
+        1. Искошеност и спљоштеност
 
-    1. Raspodela verovatnoća
+    1. Расподела вероватноћа
 
-        1. Slučajne promenljive i raspodele
+        1. Случајне променљиве и расподеле
 
-            1. Diskretne i neprekidne slučajne promenljive
+            1. Дискретне и непрекидне случајне променљиве
 
-            1. Zakon raspodele verovatnoća slučajne promenljive
+            1. Закон расподеле вероватноћа случајне променљиве
 
-        1. Raspodele verovatnoća
+        1. Расподеле вероватноћа
 
-            1. Binomna raspodela
+            1. Биномна расподела
 
-            1. Poasonova raspodela
+            1. Поасонова расподела
 
-            1. Uniformna raspodela
+            1. Униформна расподела
 
-            1. Eksponencionalna raspodela
+            1. Експоненционална расподела
 
-            1. Normalna raspodela
+            1. Нормална расподела
 
-            1. Hi-kvadratna raspodela
+            1. Хи-квадратна расподела
 
-            1. Studentova t raspodela
+            1. Студентова t расподела
 
-            1. Fišerova F raspodela
+            1. Фишерова F расподела
 
-1. **[Procena intervala i testiranje hipoteza](./prezentacije/prb02-4-procena-intervala-i-testiranje-hipoteza.pdf){:target="_blank"}**
+1. **[Процена интервала и тестирање хипотеза](./prezentacije/prb02-4-procena-intervala-i-testiranje-hipoteza.pdf){:target="_blank"}**
 
-    1. Procena itervala
+    1. Процена интервала
 
-        1. Tačkasta procena sredine populacije
+        1. Тачкаста процена средине популације
 
-        1. Intervalska procena sredine populacije, kada je poznata disperzija
+        1. Интервалска процена средине популације, када је позната дисперзија
 
-        1. Intervalska procena sredine populacije, kada je neoznata disperzija
+        1. Интервалска процена средине популације, када је неозната дисперзија
 
-        1. Određivanje veličine uzorka da bi se postigla tačnost procene sredine
+        1. Одређивање величине узорка да би се постигла тачност процене средине
 
-        1. Tačkasta procena veličine udela u populaciji
+        1. Тачкаста процена величине удела у популацији
 
-        1. Intervalska procena veličine udela u populaciji
+        1. Интервалска процена величине удела у популацији
 
-        1. Određivanje veličine uzorka da bi se postigla tačnost procene udela
+        1. Одређивање величине узорка да би се постигла тачност процене удела
 
-    1. Testiranje hipoteza
+    1. Тестирање хипотеза
 
+---
 
-[početna strana](../README.md)
+**[Информације](info/README.md)**
+
+[ПРБ](../README.md)
