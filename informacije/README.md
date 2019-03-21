@@ -2,6 +2,8 @@
 
 [ПРБ](../README.md)
 
+---
+
 ## Наставници и асистенти  
 
 * Наставник: **[проф. др Владимир Филиповић](https://vladofilipovic.github.io/index-en.html){:target="_blank"}**
@@ -29,5 +31,7 @@
 *[проф. др Владимир Филиповић](https://vladofilipovic.github.io/index-en.html){:target="_blank"}*
 
 *[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}*
+
+---
 
 [ПРБ](../README.md)
