@@ -2,6 +2,8 @@
 
 [ПРБ](/README.md)
 
+---
+
 Овдје су постављене везе за довлачење софтвера који треба инстлаирати ради успешног рада на курсу **Примјена рачунара у биологији**.
 
 ## Везе за довлачење софтвера који се користи на курсу  
@@ -15,5 +17,7 @@
 - [BioClipse](http://bioclipse.net/download/){:target="_blank"}
 
 - [Chem4Word](https://github.com/Chem4Word/Version3/releases/){:target="_blank"}
+
+---
 
 [ПРБ](/README.md)
