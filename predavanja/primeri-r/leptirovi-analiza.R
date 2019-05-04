@@ -1,51 +1,56 @@
 # Citanje podataka iz .csv datoteke
-podaci <- read.csv("D:\\Temp\\leptirovi.csv", 
+leptiri <- read.csv("D:\\Course\\PmfBlPRB--PRB\\predavanja\\primeri-r\\leptirovi.csv", 
                    header = TRUE, 
                    sep = ",", 
                    dec = ".")
-#podaci
+#leptiri
 
-prosecna.temperatura <- mean(podaci$temperatura)
+prosecna.temperatura <- mean(leptiri$temperatura)
 prosecna.temperatura
-prosecno.padavina <- mean(podaci$padavine)
+
+prosecno.padavina <- mean(leptiri$padavine)
 prosecno.padavina
-prosecno.insekata <- mean(podaci$insekata)
+
+prosecno.insekata <- mean(leptiri$insekata)
 prosecno.insekata
 
-medijana.temperatura = median(podaci$temperatura)
+medijana.temperatura = median(leptiri$temperatura)
 medijana.temperatura
 
-kvartili <- quantile(podaci$temperatura)
+kvartili <- quantile(leptiri$temperatura)
 kvartili
 
-raspodela <- quantile(podaci$temperatura, c(0, 0.35, 0.75, 1 ))
+raspodela <- quantile(leptiri$temperatura, c(0, 0.35, 0.75, 1 ))
 raspodela
 
-var(podaci$insekata)
-sd(podaci$insekata)
+var(leptiri$insekata)
+sd(leptiri$insekata)
 
 korelacija.temperatura.padavine <- 
-  cor(podaci$temperatura, podaci$padavine)
+  cor(leptiri$temperatura, leptiri$padavine)
 korelacija.temperatura.padavine
 
 korelacija.temperatura.insekata <- 
-  cor(podaci$temperatura, podaci$insekata)
+  cor(leptiri$temperatura, leptiri$insekata)
 korelacija.temperatura.insekata
 
 korelacija.padavine.insekata <- 
-  cor(podaci$padavine, podaci$insekata)
+  cor(leptiri$padavine, leptiri$insekata)
 korelacija.padavine.insekata
 
-raspodela2 <-quantile(podaci$temperatura, 
+raspodela2 <-quantile(leptiri$temperatura, 
                       c(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7 , 0.8, 0.9, 1))
 raspodela2 
 
-iqr <- IQR(podaci$temperatura)
+iqr <- IQR(leptiri$temperatura)
 iqr
 
-boxplot(podaci$temperatura)
+boxplot(leptiri$temperatura)
 
 
-kvartili <- quantile(podaci$insekata)
+kvartili <- quantile(leptiri$insekata)
 kvartili
-boxplot(podaci$insekata, horizontal = TRUE)
+
+boxplot(leptiri$insekata, horizontal = TRUE)
+
+moment(leptiri$temperatura, order = 3, center = TRUE)
